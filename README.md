@@ -8,10 +8,10 @@
 6. close Results table
 
 7. (For all modifying positions)
-     click modifying position with point selection tool
-     measure (M key)
-     click right position with point selection tool
-     measure (M key)
+     click modifying position with point selection tool  
+     measure (M key)  
+     click right position with point selection tool  
+     measure (M key)   
 
 8. save results table (option)
 9. run ManualCorrect.ijm
