@@ -20,3 +20,17 @@
 11. open image stack file
 12. run check_and_measure.ijm for checking the result
 
+
+
+---
+
+To correct one by one
+1. run measure_each_points_tagrfp_ROI.ijm
+click one from the labeled four points
+
+2. run Check_DLC_coordinatesROI.ijm 
+and correct the incorrect point
+
+3. run Check_and_measure_gcampROI.ijm
+for measuring GCaMP intensity
+
